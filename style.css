@@ -1,7 +1,7 @@
 	html {
 		background-image: url("data/img/background.png");
 		background-size: 100%;
-		background-color: #873600;
+		background-color: black;
 	}
 	
 	.h1 {
@@ -12,7 +12,21 @@
 	}
 	
 	.p1 {
+		display: table;
+		margin: 0px auto 0px auto;
+		padding: 2px 5px;
 		font-size: 12pt;
+		color: #b38929;
+		background-color: #331a00
+	}
+
+	.p2 {
+		display: table;
+		margin: 0px auto 0px auto;
+		padding: 2px 5px;
+		font-size: 15pt;
+		color: #b38929;
+		background-color: #331a00
 	}
 
 	.disclaimer {
@@ -21,9 +35,9 @@
 		padding: 2px 5px;
 		font-size: 10pt;
 		font-style: italic;
-		color: orange;
+		color: red;
 		background-size: 5%;
-		background-color: #873600;
+		background-color: black;
 	}
 	
 	.topnav {

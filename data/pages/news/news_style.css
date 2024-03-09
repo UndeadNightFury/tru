@@ -1,27 +1,40 @@
 	html {
 		background-image: url("../../img/background.png");
 		background-size: 100%;
-		background-color: #873600
+		background-color: black;
 	}
 
 	a {
 		font-size: 20pt;
+		color: #0b8e37;
 	}
 	
 	.h1 {
+		display: table;
+		padding: 2px 5px;
 		font-size: 35pt;
 		font-style: italic;
 		font-weight: bold;
-		color: white;
+		color: #b38929;
+		background-color: #331a00
 	}
 	
 	.p1 {
+		display: table;
+		margin: 0px auto 0px auto;
+		padding: 2px 5px;
 		font-size: 15pt;
-		background-color: #873600
+		color: #b38929;
+		background-color: #331a00
 	}
 
 	.a1 {
+		display: table;
+		margin: 0px auto 0px auto;
+		padding: 2px 5px;
 		font-size: 15pt;
+		color: #b38929;
+		background-color: #331a00
 	}
 
 	.disclaimer {
@@ -30,9 +43,9 @@
 		padding: 2px 5px;
 		font-size: 10pt;
 		font-style: italic;
-		color: orange;
+		color: red;
 		background-size: 5%;
-		background-color: #873600;
+		background-color: black;
 	}
 	
 	.topnav {
