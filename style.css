@@ -16,9 +16,14 @@
 	}
 
 	.disclaimer {
+		display: table;
+		margin: 0px auto 0px auto;
+		padding: 2px 5px;
 		font-size: 10pt;
 		font-style: italic;
 		color: orange;
+		background-size: 5%;
+		background-color: #873600;
 	}
 	
 	.topnav {
