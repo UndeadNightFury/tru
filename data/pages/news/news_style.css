@@ -30,6 +30,7 @@
 	.a1 {
 		display: table;
 		padding: 2px 5px;
+		text-align: center;
 		font-size: 15pt;
 		color: #b38929;
 		background-color: #331a00
