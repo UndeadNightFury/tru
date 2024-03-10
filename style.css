@@ -3,6 +3,18 @@
 		background-size: 100%;
 		background-color: black;
 	}
+
+	.error {
+		display: table;
+		margin: 0px auto 0px auto;
+		padding: 2px 5px;
+		font-size: 35pt;
+		font-style: italic;
+		font-weight: bold;
+		text-align: center;
+		color: white;
+		background-color: #331a00;
+	}
 	
 	.h1 {
 		font-size: 35pt;
