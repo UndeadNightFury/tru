@@ -46,6 +46,16 @@
 		width: 50%;
 	}
 
+	.tfrp {
+		display: table;
+		padding: 2px 5px;
+		font-size: 15pt;
+		font-style: italic;
+		color: #b38929;
+		background-color: #331a00;
+		background-size: 5%;
+	}
+
 	.disclaimer {
 		display: table;
 		margin: 0px auto 0px auto;
