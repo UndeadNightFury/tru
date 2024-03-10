@@ -46,6 +46,11 @@
 		width: 50%;
 	}
 
+	.map {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
 	.tfrp {
 		display: table;
 		padding: 2px 5px;
