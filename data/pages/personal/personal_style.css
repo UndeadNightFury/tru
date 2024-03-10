@@ -15,6 +15,16 @@
 		font-weight: bold;
 		color: white;
 	}
+
+	.h2 {
+		display: table;
+		padding: 2px 5px;
+		font-size: 35pt;
+		font-style: italic;
+		font-weight: bold;
+		color: orange;
+		background-color: maroon;
+	}
 	
 	.p1 {
 		display: table;
