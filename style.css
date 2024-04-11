@@ -4,6 +4,13 @@
 		background-color: black;
 	}
 
+	ol {
+		margin: auto;
+		font-size: 18pt;
+		color: #b38929;
+		background-color: #331a00;
+	}
+
 	.error {
 		display: table;
 		margin: 0px auto 0px auto;
@@ -21,6 +28,21 @@
 		font-style: italic;
 		font-weight: bold;
 		color: white;
+	}
+
+	.h2 {
+		margin: auto;
+		width: 52%;
+		font-size: 35pt;
+		font-style: italic;
+		font-weight: bold;
+		color: #b38929;
+		background-color: #331a00;
+	}
+
+	.thelist_h1 {
+		width: 30%;
+		margin: auto;
 	}
 	
 	.p1 {
